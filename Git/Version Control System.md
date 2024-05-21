@@ -2,7 +2,7 @@
 
 ## Uses of VCS (Version Control System)
 
-- Effictive Colaboration
+- Effective Collaboration
 - Detailed Record of Changes
 - Error and Data Loss Changes
 
@@ -31,6 +31,7 @@
 3. **Distributed Version Control System** (Best suited when you would like to collaborate with others this has the best of both local and central vcs i.e you can have your local commits and also be able to push your changed code on to the server)
 
 ---
+
 # GFG Article 1
 
 In the fast-paced world of software development, managing and tracking changes to source code is essential. Version Control Systems (VCS) provide developers with a robust way to track, collaborate, and manage different versions of their code. VCS plays a crucial role in ensuring code integrity, facilitating teamwork, and simplifying the development process. In this article, we'll explore the fundamental concepts, benefits, and popular Version Control Systems commonly used in the software development industry.
@@ -132,7 +133,7 @@ Performance: CVCS operations, such as commits and updates, rely on communication
 Offline Work: Developers can work independently and commit changes locally, even without an internet connection.
 **Speed**: DVCS operations primarily occur locally, resulting in faster performance for most tasks.
 
-### **Disadvantages of DVCS**:
+### **Disadvantages of DVCS:**
 
 **Complexity**: DVCS systems often have a steeper learning curve due to their distributed nature.
 Repository Size: Since each developer has a complete copy of the repository, DVCS can lead to larger repository sizes.
